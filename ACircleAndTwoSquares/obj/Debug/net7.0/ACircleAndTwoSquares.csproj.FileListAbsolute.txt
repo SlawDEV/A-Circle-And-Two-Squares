@@ -1,0 +1,14 @@
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/bin/Debug/net7.0/ACircleAndTwoSquares
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/bin/Debug/net7.0/ACircleAndTwoSquares.deps.json
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/bin/Debug/net7.0/ACircleAndTwoSquares.runtimeconfig.json
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/bin/Debug/net7.0/ACircleAndTwoSquares.dll
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/bin/Debug/net7.0/ACircleAndTwoSquares.pdb
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ACircleAndTwoSquares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ACircleAndTwoSquares.AssemblyInfoInputs.cache
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ACircleAndTwoSquares.AssemblyInfo.cs
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ACircleAndTwoSquares.csproj.CoreCompileInputs.cache
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ACircleAndTwoSquares.dll
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/refint/ACircleAndTwoSquares.dll
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ACircleAndTwoSquares.pdb
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ACircleAndTwoSquares.genruntimeconfig.cache
+/Users/slawomirpokuta/Projects/ACircleAndTwoSquares/ACircleAndTwoSquares/obj/Debug/net7.0/ref/ACircleAndTwoSquares.dll
